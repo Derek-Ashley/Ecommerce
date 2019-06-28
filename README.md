@@ -1,4 +1,4 @@
-<strong>Screenshots :</strong>
+<h1><strong>Screenshots :</strong></h1>
 
 Home Page:
 
