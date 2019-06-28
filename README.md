@@ -2,4 +2,4 @@ Screenshots :
 
 Home Page:
 
-<img src="screenshots/home.png">
+<img src="Screenshots/home.png">
